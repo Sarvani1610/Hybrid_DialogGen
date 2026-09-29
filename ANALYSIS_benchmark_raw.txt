@@ -1,0 +1,8 @@
+num_samples=20
+hybrid_mean_ms=939.830
+hybrid_std_ms=295.797
+hybrid_params=2354757
+pure_mean_ms=949.312
+pure_std_ms=24.500
+pure_params=2688837
+speedup_pct=1.00

@@ -1,0 +1,15 @@
+2850 train pairs, 150 val pairs
+Vocab size: 4928
+ Total params: 6,091,328 (23.24 MB)
+=== Epoch 1/5 ===
+Validation BLEU: 0.0118
+=== Epoch 2/5 ===
+Validation BLEU: 0.0118
+=== Epoch 3/5 ===
+Validation BLEU: 0.0281
+=== Epoch 4/5 ===
+Validation BLEU: 0.0038
+=== Epoch 5/5 ===
+Validation BLEU: 0.0278
+Saved weights to /home/claude/dialogen-repo/checkpoints/hybrid_dialogue.weights.h5
+Saved tokenizer to /home/claude/dialogen-repo/checkpoints/tokenizer.json

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+data/*.txt
+checkpoints/*.h5
+checkpoints/*.json
+!data/.gitkeep
+!checkpoints/.gitkeep
+.venv/
+venv/
